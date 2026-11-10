@@ -1,2 +1,1 @@
-# huethang.github.io
-Tải ứng dụng trên điện thoại
+# Tải ứng dụng trên điện thoại
