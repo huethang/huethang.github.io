@@ -1,5 +1,5 @@
 /*
-{"name": "TEN", "url": "DIACHI"},
+{"name": "TÊN", "url": "ĐỊACHỈ"},
 */
 [
   {"name": "Aptoide", "url": "https://tv.aptoide.com/howtoinstall.html"},
